@@ -1,21 +1,19 @@
-# vue-prismjs-component
+# vue-code-highlight-edit
 
-> A Vue.js project
+> A Vue component to highlight or edit code
 
-## Build Setup
+# Usage
 
-``` bash
-# install dependencies
-npm install
+## Installation
 
-# serve with hot reload at localhost:8080
-npm run dev
+### Using yarn
 
-# build for production with minification
-npm run build
+`yarn add vue-code-highlight-edit`
 
-# build for production and view the bundle analyzer report
-npm run build --report
-```
+### Using npm
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+`npm i --save vue-code-highlight-edit`
+
+## License
+
+This project is licensed under [MIT License](http://en.wikipedia.org/wiki/MIT_License)
