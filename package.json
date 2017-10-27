@@ -1,7 +1,7 @@
 {
   "name": "vue-code-highlight-edit-component",
   "version": "1.0.0",
-  "description": "A Vue component to show or edit highlighted code.",
+  "description": "A Vue component to highlight or edit code",
   "author": "Cyberduck",
   "private": true,
   "scripts": {
