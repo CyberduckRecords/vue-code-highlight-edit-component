@@ -5,7 +5,7 @@ Vue code highlight/edit component
 ------------------
 
 ### NPM
-```shell session
+```sh
 $ npm install cd-code
 ```
 
