@@ -1,5 +1,5 @@
-# Vue code highlight/edit component
-==============================
+Vue code highlight/edit component
+============================
 
 ## Installation
 ------------------
