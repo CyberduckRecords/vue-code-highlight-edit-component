@@ -11,4 +11,4 @@ $ npm install cd-code
 -
 --
 
-![alt text](https://image.prntscr.com/image/SIyvwg83QfW8lv-cNK4YTg.pngi "Logo Title Text 1")
+![alt text](https://image.prntscr.com/image/SIyvwg83QfW8lv-cNK4YTg.png "Logo Title Text 1")
